@@ -1,8 +1,8 @@
 # Cartorioebac
 Projeto do curso de TI da Ebac.
 
-Arquivo  shell script (calculadora.sh)
-Este arquivo executa uma calculadora simples em shell Script.
+Arquivo Shell script (calculadora.sh)
+Este arquivo executa uma calculadora simples em Shell Script.
 Como executar
 Abra o terminal linux.
 Navegar até a pasta onde está o arquivo
@@ -12,7 +12,7 @@ execute o programa:
 .calculadora.sh
 
 Arquivo Python (calculadora.py)
-Neste arquivo contém uma calculadora desenvolvida em python.
+Neste arquivo contém uma calculadora desenvolvida em Python.
 
 Funcionalidades
 Soma
